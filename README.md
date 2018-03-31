@@ -1,2 +1,2 @@
 # Parallel-MST
-Boruvka's parallel MST algorithm on MPI
+Boruvka's parallel MST algorithm using MPI
